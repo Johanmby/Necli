@@ -17,20 +17,40 @@ namespace NecliGestionWebApi.Controllers
         [HttpGet]
         public IActionResult ListarCuentas()
         {
+            // Uso de las excepciones para manejar errores y un foreach para no mostrar la información sensible que en este caso sería la contraseña
             try
             {
                 var cuentas = _cuentaService.ListarCuentas();
+                if (cuentas == null)
+                    return NotFound("Cuenta no encontrada");
+                foreach (var cuenta in cuentas)
+                {
+                    cuenta.Contraseña = "********"; 
+                }
                 return Ok(cuentas);
             }
             catch (Exception ex)
             {
                 return StatusCode(500, ex.Message);
             }
+
+        }
+
+
+        [HttpGet("{telefono}")]
+        public IActionResult ConsultarCuenta(string telefono)
+        {
+            var cuenta = _cuentaService.ConsultarCuenta(telefono);
+            if (cuenta == null)
+                return NotFound("Cuenta no encontrada");
+            cuenta.Contraseña = "********"; 
+            return Ok(cuenta);
         }
 
         [HttpPost]
         public IActionResult RegistrarCuenta([FromBody] RegistroCuentaDto cuentaDto)
         {
+            // Uso de las excepciones para manejar errores de registro
             try
             {
                 var resultado = _cuentaService.RegistrarCuenta(cuentaDto);
@@ -46,19 +66,10 @@ namespace NecliGestionWebApi.Controllers
         }
 
 
-        [HttpGet("{telefono}")]
-        public IActionResult ConsultarCuenta(string telefono)
-        {
-            var cuenta = _cuentaService.ConsultarCuenta(telefono);
-            if (cuenta == null)
-                return NotFound("Cuenta no encontrada");
-            cuenta.Contraseña = "********"; // No mostrar la contraseña
-            return Ok(cuenta);
-        }
-
         [HttpPut]
         public IActionResult ActualizarCuenta([FromBody] Cuenta cuenta)
         {
+            // Uso de las excepciones para manejar errores de actualización
             try
             {
                 var resultado = _cuentaService.ActualizarCuenta(cuenta);
@@ -76,6 +87,7 @@ namespace NecliGestionWebApi.Controllers
         [HttpDelete("{telefono}")]
         public IActionResult EliminarCuenta(string telefono)
         {
+            // Uso de multiples excepciones para manejar los procesos de eliminación cuenta
             try
             {
                 var resultado = _cuentaService.EliminarCuenta(telefono);

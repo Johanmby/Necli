@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B81E5374-4328-49CC-800F-FEA7559E3B48}|NecliGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.persistencia\\transaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E5374-4328-49CC-800F-FEA7559E3B48}|NecliGestion.Persistencia\\NecliGestion.Persistencia.csproj|solutionrelative:necligestion.persistencia\\transaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6840C3DC-B0AD-4F35-8F3D-729428081CD2}|NecliGestionWebApi\\NecliGestionWebApi.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestionwebapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6840C3DC-B0AD-4F35-8F3D-729428081CD2}|NecliGestionWebApi\\NecliGestionWebApi.csproj|solutionrelative:necligestionwebapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6840C3DC-B0AD-4F35-8F3D-729428081CD2}|NecliGestionWebApi\\NecliGestionWebApi.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestionwebapi\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6840C3DC-B0AD-4F35-8F3D-729428081CD2}|NecliGestionWebApi\\NecliGestionWebApi.csproj|solutionrelative:necligestionwebapi\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\services\\transaccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|solutionrelative:necligestion.logica\\services\\transaccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|solutionrelative:necligestion.logica\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B81E5374-4328-49CC-800F-FEA7559E3B48}|NecliGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.persistencia\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B81E5374-4328-49CC-800F-FEA7559E3B48}|NecliGestion.Persistencia\\NecliGestion.Persistencia.csproj|solutionrelative:necligestion.persistencia\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B81E5374-4328-49CC-800F-FEA7559E3B48}|NecliGestion.Persistencia\\NecliGestion.Persistencia.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.persistencia\\transaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E5374-4328-49CC-800F-FEA7559E3B48}|NecliGestion.Persistencia\\NecliGestion.Persistencia.csproj|solutionrelative:necligestion.persistencia\\transaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\services\\transaccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|solutionrelative:necligestion.logica\\services\\transaccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\dtos\\consultartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|solutionrelative:necligestion.logica\\dtos\\consultartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6840C3DC-B0AD-4F35-8F3D-729428081CD2}|NecliGestionWebApi\\NecliGestionWebApi.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestionwebapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6840C3DC-B0AD-4F35-8F3D-729428081CD2}|NecliGestionWebApi\\NecliGestionWebApi.csproj|solutionrelative:necligestionwebapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\dtos\\registrartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|solutionrelative:necligestion.logica\\dtos\\registrartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|solutionrelative:necligestion.logica\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04A2A464-027F-4AD6-A652-565517E1AA22}|NecliGestion.Entidades\\NecliGestion.Entidades.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.entidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A2A464-027F-4AD6-A652-565517E1AA22}|NecliGestion.Entidades\\NecliGestion.Entidades.csproj|solutionrelative:necligestion.entidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\dtos\\eliminarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\dtos\\actualizarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|solutionrelative:necligestion.logica\\dtos\\actualizarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04A2A464-027F-4AD6-A652-565517E1AA22}|NecliGestion.Entidades\\NecliGestion.Entidades.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.entidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04A2A464-027F-4AD6-A652-565517E1AA22}|NecliGestion.Entidades\\NecliGestion.Entidades.csproj|solutionrelative:necligestion.entidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{870210CB-257F-4436-B20C-D53B9BB8D764}|NecliGestion.Logica\\NecliGestion.Logica.csproj|c:\\users\\johan\\onedrive\\escritorio\\necligestion\\necligestion.logica\\dtos\\consultarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,41 +86,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TransaccionService.cs",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Services\\TransaccionService.cs",
               "RelativeDocumentMoniker": "NecliGestion.Logica\\Services\\TransaccionService.cs",
               "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Services\\TransaccionService.cs",
               "RelativeToolTip": "NecliGestion.Logica\\Services\\TransaccionService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T15:12:49.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TransaccionRepository.cs",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Persistencia\\TransaccionRepository.cs",
               "RelativeDocumentMoniker": "NecliGestion.Persistencia\\TransaccionRepository.cs",
               "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Persistencia\\TransaccionRepository.cs",
               "RelativeToolTip": "NecliGestion.Persistencia\\TransaccionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T15:13:53.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegistrarTransaccionDto.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "RelativeDocumentMoniker": "NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "RelativeToolTip": "NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:00:14.93Z",
               "EditorCaption": ""
             },
             {
@@ -131,66 +118,92 @@
               "RelativeDocumentMoniker": "NecliGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
               "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
               "RelativeToolTip": "NecliGestion.Logica\\Dtos\\ConsultarTransaccionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T14:59:50.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TransaccionController.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\TransaccionController.cs",
-              "RelativeDocumentMoniker": "NecliGestionWebApi\\Controllers\\TransaccionController.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\TransaccionController.cs",
-              "RelativeToolTip": "NecliGestionWebApi\\Controllers\\TransaccionController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:15:29.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CuentaController.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\CuentaController.cs",
-              "RelativeDocumentMoniker": "NecliGestionWebApi\\Controllers\\CuentaController.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\CuentaController.cs",
-              "RelativeToolTip": "NecliGestionWebApi\\Controllers\\CuentaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:14:43.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CuentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Persistencia\\CuentaRepository.cs",
               "RelativeDocumentMoniker": "NecliGestion.Persistencia\\CuentaRepository.cs",
               "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Persistencia\\CuentaRepository.cs",
               "RelativeToolTip": "NecliGestion.Persistencia\\CuentaRepository.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAYwAkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwD8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T15:13:31.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "CuentaService.cs",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Services\\CuentaService.cs",
               "RelativeDocumentMoniker": "NecliGestion.Logica\\Services\\CuentaService.cs",
               "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Services\\CuentaService.cs",
               "RelativeToolTip": "NecliGestion.Logica\\Services\\CuentaService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwBcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T15:12:29.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "NecliGestionWebApi\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "NecliGestionWebApi\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:14:43.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "NecliGestionWebApi\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestionWebApi\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "NecliGestionWebApi\\Controllers\\TransaccionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:15:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrarTransaccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "RelativeDocumentMoniker": "NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "RelativeToolTip": "NecliGestion.Logica\\Dtos\\RegistrarTransaccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Entidades\\Transaccion.cs",
+              "RelativeDocumentMoniker": "NecliGestion.Entidades\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Entidades\\Transaccion.cs",
+              "RelativeToolTip": "NecliGestion.Entidades\\Transaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:52:50.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EliminarCuentaDto.cs",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
               "RelativeDocumentMoniker": "NecliGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
@@ -198,12 +211,11 @@
               "RelativeToolTip": "NecliGestion.Logica\\Dtos\\EliminarCuentaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:00:54.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T15:00:54.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RegistroCuentaDto.cs",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\RegistroCuentaDto.cs",
               "RelativeDocumentMoniker": "NecliGestion.Logica\\Dtos\\RegistroCuentaDto.cs",
@@ -211,12 +223,11 @@
               "RelativeToolTip": "NecliGestion.Logica\\Dtos\\RegistroCuentaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:00:36.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T15:00:36.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ActualizarCuentaDto.cs",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
               "RelativeDocumentMoniker": "NecliGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
@@ -224,21 +235,7 @@
               "RelativeToolTip": "NecliGestion.Logica\\Dtos\\ActualizarCuentaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:58:33.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Transaccion.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Entidades\\Transaccion.cs",
-              "RelativeDocumentMoniker": "NecliGestion.Entidades\\Transaccion.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\NecliGestion\\NecliGestion.Entidades\\Transaccion.cs",
-              "RelativeToolTip": "NecliGestion.Entidades\\Transaccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:52:50.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T14:58:33.88Z"
             },
             {
               "$type": "Document",

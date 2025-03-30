@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NecliGestionWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5653b770e2661b41bf41518d9bcb9abb3c7de3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d64c5e4a9ed89b9cb45ee2f8cc6565e9c401ebe6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NecliGestionWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NecliGestionWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

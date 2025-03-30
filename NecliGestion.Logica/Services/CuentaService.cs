@@ -34,15 +34,19 @@ namespace NecliGestion.Logica.Services
 
             return _cuentaRepository.RegistrarCuenta(cuenta);
         }
+        //Codigo para listar cuentas (GET)
         public List<Cuenta> ListarCuentas()
         {
             return _cuentaRepository.ListarCuenta();
         }
+
+        //Codigo para consultar una cuenta por telefono (GET{telefono})
         public Cuenta ConsultarCuenta(string telefono)
         {
             return _cuentaRepository.ConsultarCuenta(telefono);
         }
 
+        //Codigo para actualizar una cuenta (PUT)
         public bool ActualizarCuenta(Cuenta cuenta)
         {
             if (string.IsNullOrEmpty(cuenta.Nombre) || string.IsNullOrEmpty(cuenta.Email))
@@ -53,6 +57,7 @@ namespace NecliGestion.Logica.Services
             return _cuentaRepository.ActualizarCuenta(cuenta);
         }
 
+        //Codigo para eliminar una cuenta (DELETE)
         public bool EliminarCuenta(string Telefono)
         {
             var cuenta = _cuentaRepository.ConsultarCuenta(Telefono);
